@@ -5,7 +5,7 @@
 Install Arch Linux from scratch for any Windows 11 machine:<br>
 https://gist.github.com/Sarievo/f9d56fa2cf5966e9c669d18ddf79e5df
 
-#### Install Arch Linux (native): 
+Install Arch Linux (native): <br>
 https://www.tecmint.com/arch-linux-installation-and-configuration-guide/<br>
 Arch Linux Deskstop Configuration (GUI) with pure Wayland that I followed:<br>
 https://www.fosskers.ca/en/blog/wayland
