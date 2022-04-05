@@ -3,8 +3,8 @@ if status is-interactive
 end
 
 
-# rust
-set PATH $HOME/.cargo/bin (yarn global bin) $PATH
+# rust and nodejs-yarn
+# set PATH $HOME/.cargo/bin (yarn global bin) $PATH
 
 # exa
 if type -q exa
@@ -14,7 +14,7 @@ end
 
 # set var alias
 set fish $HOME/.config/fish/config.fish
-set sway $HOME/.config/sway/config
+# set sway $HOME/.config/sway/config
 set nmap $HOME/.config/nvim/maps.vim
 set helix $HOME/.config/helix/config.toml
 
@@ -24,9 +24,3 @@ alias md "mkdir -p"
 alias rd "rmdir"
 alias mv "mv -i"
 alias cp "cp -i"
-
-# boot up
-#zellij
-
-# The next line updates PATH for the Google Cloud SDK.
-if [ -f '/mnt/c/Users/SYS/Documents/workspace/targets/google-cloud-sdk/path.fish.inc' ]; . '/mnt/c/Users/SYS/Documents/workspace/targets/google-cloud-sdk/path.fish.inc'; end
